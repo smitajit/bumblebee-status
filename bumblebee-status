@@ -100,7 +100,8 @@ def main():
     input_thread.start()
 
     if config.debug():
-        modules.append(core.module.load("debug", config, theme))
+        pass
+        #  modules.append(core.module.load("debug", config, theme))
 
     for module in config.modules():
         modules.append(core.module.load(module, config, theme))

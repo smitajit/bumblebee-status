@@ -1,6 +1,6 @@
 {
   "defaults": {
-    "separator": "",
+    "separator": "",
     "padding": " ",
     "unknown": { "prefix": "" },
     "separator-block-width": 0,
@@ -22,7 +22,7 @@
     "fan": { "prefix": "" }
   },
   "disk": { "prefix": "" },
-  "smartstatus": { "prefix": "" },  
+  "smartstatus": { "prefix": "" },
   "dnf": { "prefix": "" },
   "apt": { "prefix": "" },
   "pacman": { "prefix": "" },
